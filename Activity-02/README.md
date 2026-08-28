@@ -14,4 +14,4 @@ To explore and understand useful VS Code extensions that improve coding, formatt
 I installed and explored the above VS Code extensions and tested their basic features. I also ran simple Python and Java programs, formatted code using Prettier, explored GitLens, and used Live Share for collaboration.
 
 ## Conclusion
-This activity helped me understand how VS Code extensions can make programming easier, improve code quality, track changes using Git, and support collaborative coding.
+This activity helped me understand how VS Code extensions can make programming easier, improve code quality, track changes using Git, and support collaborative coding. 
