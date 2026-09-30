@@ -5,6 +5,6 @@ void greet(char name[]) {
 }
 
 int main() {
-    greet("Pavana");
+    greet("Pavana from github");
     return 0;
 }
